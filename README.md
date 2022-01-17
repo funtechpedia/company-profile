@@ -1,8 +1,8 @@
-/# Bootstrap 5 Portfolio Template
+<!-- # Bootstrap 5 Portfolio Template -->
 
-/### TEMPLATE SCREENSHOT
+<!-- ### TEMPLATE SCREENSHOT -->
 
-// ### WEBSITE PREVIEW 
+<!-- ### WEBSITE PREVIEW  -->
 
 <!-- [BOOTSTRAP 5 TEMPLATE PREVIEW ](https://bootstrap-5-website.netlify.app/) -->
 
